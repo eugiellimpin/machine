@@ -2,6 +2,31 @@
 
 ## Software
 
-- Node version manager: [nvm](https://github.com/creationix/nvm)
+- [Homebrew](https://brew.sh)
+- [Homebrew-Cask](https://caskroom.github.io)
+- [iTerm2](https://www.iterm2.com)
+- [Spectacle](https://www.spectacleapp.com)
+- Google Chrome
+- [Telegram](https://telegram.org)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Node version manager](https://github.com/creationix/nvm)
+- [Z shell](http://zsh.sourceforge.net)
+- [Neovim](https://neovim.io)
+
+## Services
+- LastPass
+
+### macOS
+
+#### Settings
+
+- Keyboard
+  - Fast key repeat
+  - Short delay until repeat
+  - Modifier keys
+    - Caps Lock to Control
+    - Control to Caps Lock
+- Trackpad: Three finger dragging enabled
+- Trackpad: Max tracking speed
 
 ## Hardware
