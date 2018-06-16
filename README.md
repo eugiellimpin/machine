@@ -10,8 +10,10 @@
 - [Telegram](https://telegram.org)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Node version manager](https://github.com/creationix/nvm)
+- [rbenv](https://github.com/rbenv/rbenv)
 - [Z shell](http://zsh.sourceforge.net)
 - [Neovim](https://neovim.io)
+- [Slack](https://slack.com)
 
 ## Services
 - LastPass
