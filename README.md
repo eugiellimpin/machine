@@ -12,6 +12,7 @@
 - [Node version manager](https://github.com/creationix/nvm)
 - [rbenv](https://github.com/rbenv/rbenv)
 - [Z shell](http://zsh.sourceforge.net)
+  - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Neovim](https://neovim.io)
 - [Slack](https://slack.com)
 
