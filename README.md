@@ -15,6 +15,7 @@
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Neovim](https://neovim.io)
 - [Slack](https://slack.com)
+- [Oni](https://www.onivim.io/)
 
 ## Services
 - LastPass
