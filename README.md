@@ -5,6 +5,7 @@
 - [Homebrew](https://brew.sh)
 - [Homebrew-Cask](https://caskroom.github.io)
 - [iTerm2](https://www.iterm2.com)
+  - Theme: [SpaceGray](https://github.com/mbadolato/iTerm2-Color-Schemes#spacegray)
 - [Spectacle](https://www.spectacleapp.com)
 - Google Chrome
 - [Telegram](https://telegram.org)
