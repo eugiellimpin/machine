@@ -7,6 +7,7 @@
 - [iTerm2](https://www.iterm2.com)
   - Theme: [SpaceGray](https://github.com/mbadolato/iTerm2-Color-Schemes#spacegray)
 - [Spectacle](https://www.spectacleapp.com)
+- Firefox
 - Google Chrome
 - [Telegram](https://telegram.org)
 - [Visual Studio Code](https://code.visualstudio.com)
