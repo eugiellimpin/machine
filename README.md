@@ -18,6 +18,7 @@
 - [Neovim](https://neovim.io)
 - [Slack](https://slack.com)
 - [Oni](https://www.onivim.io/)
+- [LICEcap](https://www.cockos.com/licecap/)
 
 ## Services
 - LastPass
