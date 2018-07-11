@@ -19,6 +19,7 @@
 - [Slack](https://slack.com)
 - [Oni](https://www.onivim.io/)
 - [LICEcap](https://www.cockos.com/licecap/)
+- [Transmission](https://transmissionbt.com/)
 
 ## Services
 - LastPass
