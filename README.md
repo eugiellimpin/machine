@@ -20,6 +20,7 @@
 - [Oni](https://www.onivim.io/)
 - [LICEcap](https://www.cockos.com/licecap/)
 - [Transmission](https://transmissionbt.com/)
+- WhatsApp
 
 ## Services
 - LastPass
