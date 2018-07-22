@@ -21,6 +21,7 @@
 - [LICEcap](https://www.cockos.com/licecap/)
 - [Transmission](https://transmissionbt.com/)
 - WhatsApp
+- [f.lux](https://justgetflux.com/)
 
 ## Services
 - LastPass
